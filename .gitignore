@@ -1,2 +1,6 @@
 # Only workspace configuration from vscode will be tracked
 !*.code-workspace 
+
+# Ignore internal repositories
+gitlab_integration/
+test_repos/
